@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973225421152",
+    "project_id": "sanbercode-firebase",
+    "storage_bucket": "sanbercode-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973225421152:android:b1d642eb5127914ac71605",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCqaaC7AIzA8bcre1zItxWTJIIHDMuwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973225421152:android:9c570d538dc7e12fc71605",
+        "android_client_info": {
+          "package_name": "com.flutterfirebase.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCqaaC7AIzA8bcre1zItxWTJIIHDMuwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
